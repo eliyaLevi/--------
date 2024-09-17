@@ -1,0 +1,13 @@
+
+.r{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display:block;
+}
+
+.fullName{
+    height: 40px;
+    width: 300px;
+    background-color: aqua;
+}
